@@ -12,7 +12,6 @@ import numpy as np
 import re
 import nltk
 from nltk.corpus import stopwords
-
 from numpy import array
 from numpy import asarray
 from numpy import zeros
